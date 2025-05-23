@@ -1,0 +1,14 @@
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/bin/Debug/net9.0/Task19
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/bin/Debug/net9.0/Task19.deps.json
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/bin/Debug/net9.0/Task19.runtimeconfig.json
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/bin/Debug/net9.0/Task19.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/bin/Debug/net9.0/Task19.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.csproj.CoreCompileInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/refint/Task19.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/Task19.genruntimeconfig.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task19/Task19/obj/Debug/net9.0/ref/Task19.dll

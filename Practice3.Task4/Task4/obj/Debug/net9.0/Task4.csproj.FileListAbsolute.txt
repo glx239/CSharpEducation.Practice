@@ -1,0 +1,14 @@
+/home/anton/my_file/C#/Practice3.Task4/Task4/bin/Debug/net9.0/Task4
+/home/anton/my_file/C#/Practice3.Task4/Task4/bin/Debug/net9.0/Task4.deps.json
+/home/anton/my_file/C#/Practice3.Task4/Task4/bin/Debug/net9.0/Task4.runtimeconfig.json
+/home/anton/my_file/C#/Practice3.Task4/Task4/bin/Debug/net9.0/Task4.dll
+/home/anton/my_file/C#/Practice3.Task4/Task4/bin/Debug/net9.0/Task4.pdb
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.AssemblyInfoInputs.cache
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.AssemblyInfo.cs
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.csproj.CoreCompileInputs.cache
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.dll
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/refint/Task4.dll
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.pdb
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/Task4.genruntimeconfig.cache
+/home/anton/my_file/C#/Practice3.Task4/Task4/obj/Debug/net9.0/ref/Task4.dll

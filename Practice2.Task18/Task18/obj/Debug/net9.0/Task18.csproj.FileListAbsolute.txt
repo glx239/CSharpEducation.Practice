@@ -1,0 +1,4 @@
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task18/Task18/obj/Debug/net9.0/Task18.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task18/Task18/obj/Debug/net9.0/Task18.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task18/Task18/obj/Debug/net9.0/Task18.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task18/Task18/obj/Debug/net9.0/Task18.csproj.CoreCompileInputs.cache

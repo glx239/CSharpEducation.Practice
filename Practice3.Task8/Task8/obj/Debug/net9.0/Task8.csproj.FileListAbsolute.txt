@@ -1,0 +1,14 @@
+/home/anton/my_file/C#/Practice3.Task8/Task8/bin/Debug/net9.0/Task8
+/home/anton/my_file/C#/Practice3.Task8/Task8/bin/Debug/net9.0/Task8.deps.json
+/home/anton/my_file/C#/Practice3.Task8/Task8/bin/Debug/net9.0/Task8.runtimeconfig.json
+/home/anton/my_file/C#/Practice3.Task8/Task8/bin/Debug/net9.0/Task8.dll
+/home/anton/my_file/C#/Practice3.Task8/Task8/bin/Debug/net9.0/Task8.pdb
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.AssemblyInfoInputs.cache
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.AssemblyInfo.cs
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.csproj.CoreCompileInputs.cache
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.dll
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/refint/Task8.dll
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.pdb
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/Task8.genruntimeconfig.cache
+/home/anton/my_file/C#/Practice3.Task8/Task8/obj/Debug/net9.0/ref/Task8.dll

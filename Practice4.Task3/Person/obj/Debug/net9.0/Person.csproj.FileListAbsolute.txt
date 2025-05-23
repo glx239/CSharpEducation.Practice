@@ -1,0 +1,11 @@
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/bin/Debug/net9.0/Person.deps.json
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/bin/Debug/net9.0/Person.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/bin/Debug/net9.0/Person.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.csproj.CoreCompileInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/refint/Person.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/Person.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice4.Task3/Person/obj/Debug/net9.0/ref/Person.dll

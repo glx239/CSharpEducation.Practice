@@ -1,0 +1,14 @@
+/home/anton/my_file/CSharpEducation.Practice/Task2D/bin/Debug/net9.0/Task2D
+/home/anton/my_file/CSharpEducation.Practice/Task2D/bin/Debug/net9.0/Task2D.deps.json
+/home/anton/my_file/CSharpEducation.Practice/Task2D/bin/Debug/net9.0/Task2D.runtimeconfig.json
+/home/anton/my_file/CSharpEducation.Practice/Task2D/bin/Debug/net9.0/Task2D.dll
+/home/anton/my_file/CSharpEducation.Practice/Task2D/bin/Debug/net9.0/Task2D.pdb
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.csproj.CoreCompileInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.dll
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/refint/Task2D.dll
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.pdb
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/Task2D.genruntimeconfig.cache
+/home/anton/my_file/CSharpEducation.Practice/Task2D/obj/Debug/net9.0/ref/Task2D.dll

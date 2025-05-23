@@ -1,0 +1,14 @@
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.csproj.CoreCompileInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/bin/Debug/net9.0/Task24
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/bin/Debug/net9.0/Task24.deps.json
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/bin/Debug/net9.0/Task24.runtimeconfig.json
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/bin/Debug/net9.0/Task24.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/bin/Debug/net9.0/Task24.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/refint/Task24.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/Task24.genruntimeconfig.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice2.Task24/Task24/obj/Debug/net9.0/ref/Task24.dll

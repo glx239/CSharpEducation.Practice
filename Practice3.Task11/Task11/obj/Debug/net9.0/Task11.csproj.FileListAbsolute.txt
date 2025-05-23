@@ -1,0 +1,14 @@
+/home/anton/my_file/C#/Practice3.Task11/Task11/bin/Debug/net9.0/Task11
+/home/anton/my_file/C#/Practice3.Task11/Task11/bin/Debug/net9.0/Task11.deps.json
+/home/anton/my_file/C#/Practice3.Task11/Task11/bin/Debug/net9.0/Task11.runtimeconfig.json
+/home/anton/my_file/C#/Practice3.Task11/Task11/bin/Debug/net9.0/Task11.dll
+/home/anton/my_file/C#/Practice3.Task11/Task11/bin/Debug/net9.0/Task11.pdb
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.AssemblyInfoInputs.cache
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.AssemblyInfo.cs
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.csproj.CoreCompileInputs.cache
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.dll
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/refint/Task11.dll
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.pdb
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/Task11.genruntimeconfig.cache
+/home/anton/my_file/C#/Practice3.Task11/Task11/obj/Debug/net9.0/ref/Task11.dll

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Practice4.Task1">
+        <HintPath>..\..\Practice4.Task1\bin\Debug\net9.0\Practice4.Task1.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
