@@ -11,6 +11,6 @@ public class Manager : Employee
 
     public override double CalculateBonus()
     {
-        return Salary * 0.2;
+        return Salary * 20 / 100;
     }
 }

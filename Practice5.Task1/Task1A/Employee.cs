@@ -4,8 +4,8 @@ namespace Task1A;
 
 public class Employee
 {
-    public string Name { get; set; }
-    public int Salary  { get; set; }
+    public string Name { get; set; } = "";
+    public int Salary { get; set; } = 0;
 
     public Employee(string name, int salary)
     {

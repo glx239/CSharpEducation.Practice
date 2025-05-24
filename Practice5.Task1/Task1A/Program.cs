@@ -10,5 +10,6 @@ class Program
         Manager mgr = new Manager("Dimid", 100);
         Console.WriteLine(emp.CalculateBonus());
         Console.WriteLine(mgr.CalculateBonus());
+        Console.WriteLine(emp.CalculateBonus());
     }   
 }
