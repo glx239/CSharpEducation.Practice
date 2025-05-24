@@ -1,0 +1,15 @@
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.AssemblyInfoInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.AssemblyInfo.cs
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.csproj.CoreCompileInputs.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.sourcelink.json
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/bin/Debug/net9.0/Task1A
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/bin/Debug/net9.0/Task1A.deps.json
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/bin/Debug/net9.0/Task1A.runtimeconfig.json
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/bin/Debug/net9.0/Task1A.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/bin/Debug/net9.0/Task1A.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/refint/Task1A.dll
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.pdb
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/Task1A.genruntimeconfig.cache
+/home/anton/my_file/CSharpEducation.Practice/Practice5.Task1/Task1A/obj/Debug/net9.0/ref/Task1A.dll
